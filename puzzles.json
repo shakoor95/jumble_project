@@ -1,0 +1,116 @@
+{
+  "puzzles": [
+    {
+      "id": 1,
+      "jumbles": [
+        {
+          "nalgd": [1,3,4]
+        },
+        {
+          "ramoj": [2,3]
+        },
+        {
+          "camble": [0,1,3]
+        },
+        {
+          "wraley": [0,2,4]
+        }
+      ],
+      "finalWordLengths": [
+        3,
+        4,
+        4
+      ]
+    },
+    {
+      "id": 2,
+      "jumbles": [
+        {
+          "bnedl": [0,4]
+        },
+        {
+          "idova": [0,3,4]
+        },
+        {
+          "seheyc": [1,5]
+        },
+        {
+          "aracem": [1,4,5]
+        }
+      ],
+      "finalWordLengths": [
+        3,
+        4,
+        3
+      ]
+    },
+    {
+      "id": 3,
+      "jumbles": [
+        {
+          "shast": [0,3,4]
+        },
+        {
+          "doore": [0,1,3]
+        },
+        {
+          "ditnic": [0,1,2]
+        },
+        {
+          "catili": [0,2,5]
+        }
+      ],
+      "finalWordLengths": [
+        4,
+        8
+      ]
+    },
+    {
+      "id": 4,
+      "jumbles": [
+        {
+          "knidy": [0,1]
+        },
+        {
+          "legia": [0,2]
+        },
+        {
+          "cronee": [1,3]
+        },
+        {
+          "tuvedo": [0,5]
+        }
+      ],
+      "finalWordLengths": [
+        8
+      ]
+    },
+    {
+      "id": 5,
+      "jumbles": [
+        {
+          "gyrint": [0,1,3]
+        },
+        {
+          "drivet": [2,5]
+        },
+        {
+          "snamea": [0,5]
+        },
+        {
+          "ceedit": [1,3,5]
+        },
+        {
+          "sowdah": [0,3]
+        },
+        {
+          "elchek": [1,5]
+        }
+      ],
+      "finalWordLengths": [
+        6,
+        8
+      ]
+    }
+  ]
+}

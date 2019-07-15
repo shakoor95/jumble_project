@@ -1,0 +1,11 @@
+\|alpha_sorted|scrambled|idxs_list|matches_list            |letters_lists                    |
++------------+---------+---------+------------------------+---------------------------------+
+|bdeln       |bnedl    |[0, 4]   |[blend]                 |[[b, d]]                         |
+|adiov       |idova    |[0, 3, 4]|[avoid]                 |[[a, i, d]]                      |
+|ceehsy      |seheyc   |[1, 5]   |[cheesy, sychee]        |[[h, y], [y, e]]                 |
+|aacemr      |aracem   |[1, 4, 5]|[camera, mareca, acream]|[[a, r, a], [a, c, a], [c, a, m]]|
++------------+---------+---------+------------------------+---------------------------------+
+
+3
+4
+3

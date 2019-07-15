@@ -1,0 +1,13 @@
++------------+---------+---------+------------------------+---------------------------------+
+|alpha_sorted|scrambled|idxs_list|matches_list            |letters_lists                    |
++------------+---------+---------+------------------------+---------------------------------+
+|ginrty      |gyrint   |[0, 1, 3]|[trying, trigyn, tyring]|[[t, r, i], [t, r, g], [t, y, i]]|
+|deirtv      |drivet   |[2, 5]   |[divert]                |[[v, t]]                         |
+|aaemns      |snamea   |[0, 5]   |[seaman]                |[[s, n]]                         |
+|cdeeit      |ceedit   |[1, 3, 5]|[deceit]                |[[e, e, t]]                      |
+|adhosw      |sowdah   |[0, 3]   |[shadow]                |[[s, d]]                         |
+|ceehkl      |elchek   |[1, 5]   |[kechel, heckle]        |[[e, l], [e, e]]                 |
++------------+---------+---------+------------------------+---------------------------------+
+
+6
+8

@@ -1,0 +1,9 @@
+|alpha_sorted|scrambled|idxs_list|matches_list         |letters_lists           |
++------------+---------+---------+---------------------+------------------------+
+|dikny       |knidy    |[0, 1]   |[dinky]              |[[d, i]]                |
+|aegil       |legia    |[0, 2]   |[agile, galei, agiel]|[[a, i], [g, l], [a, i]]|
+|ceenor      |cronee   |[1, 3]   |[encore]             |[[n, o]]                |
+|deotuv      |tuvedo   |[0, 5]   |[devout]             |[[d, t]]                |
++------------+---------+---------+---------------------+------------------------+
+
+8

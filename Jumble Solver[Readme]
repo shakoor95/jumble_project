@@ -1,0 +1,21 @@
+Jumble Solver:
+The jumble puzzle is a common newspaper puzzle, it contains a series of anagrams that must be solved (see https://en.wikipedia.org/wiki/Jumble). To solve, one must solve each of the individual jumbles. The circled letters are then used to create an additional anagram to be solved. In especially difficult versions, some of the anagrams in the first set can possess multiple solutions. To get the final answer, it is important to know all possible anagrams of a given series of letters.
+
+Problem Statement:
+Your challenge is to solve the five Jumble puzzles using Spark, where it makes sense to do so. You must use Python. If the final puzzle has multiple possible answers, you are to include an algorithm to determine the most likely one. We have provided a dictionary where the "most common" English words are scored (1=most frequent, 9887=least frequent, 0=not scored due to infrequency of use). For each puzzle, produce the "most likely" (as you determine it) final anagram produced from solving all the other anagrams.
+
+Solution: 
+Before getting stat with code, we have to make sure about our programming environment in which I have executed this code and it's running really well. 
+I have used following environment:
+1.Ubuntu (18.04.2) installed in Virtualbox (6.0.8){64-bit}
+2.Java 8
+3.Used Pyspark in jupyternote book
+
+Approach:
+I have provided with Jumble pictures (Picture 1 to Picture 5) and "freq_dist.json". 
+So, as the jumble words we can see in those 5 pictures provided with this assignment, I had to first built a .json out of those 5 pictures and named as "Puzzles.json".
+Now, we put  "Puzzles.json" and "freq_dist.json" in a same folder, open jupyter notebook and startworking on code execution.  
+
+Result:
+I have attached result screenshots and .txt files(Puzzle numerber 1,Puzzle number 2,Puzzle number 3,Puzzle number 4,Puzzle 5) and  with the assignment.
+
